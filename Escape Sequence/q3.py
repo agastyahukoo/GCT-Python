@@ -1,0 +1,6 @@
+print("1\t2\t3")
+print("3\t2\t1")
+print("1\t2\t3")
+print("3\t2\t1")
+print("1\t2\t3")
+print("3\t2\t1")
