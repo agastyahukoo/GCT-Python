@@ -1,0 +1,7 @@
+print("\t\t\t1")
+print("\t\t\t1\t1")
+print("\t\t\t1\t1\t1")
+print("\t\t\t1\t1\t1\t1")
+print("\t\t\t1\t1\t1")
+print("\t\t\t1\t1")
+print("\t\t\t1")

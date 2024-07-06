@@ -1,0 +1,7 @@
+print("\t\t\t1")
+print("\t\t1\t2")
+print("\t1\t2\t3")
+print("1\t2\t3\t4")
+print("\t1\t2\t3")
+print("\t\t1\t2")
+print("\t\t\t1")

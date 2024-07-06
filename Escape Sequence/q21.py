@@ -1,0 +1,1 @@
+print("D\nC\tD\nB\tC\tD\nA\tB\tC\tD")

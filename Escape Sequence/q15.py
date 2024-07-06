@@ -1,0 +1,7 @@
+print("1\t1\t1\t1\t1\t1\t1")
+print("1\t1\t1\t\t1\t1\t1")
+print("1\t1\t\t\t\t1\t1")
+print("1\t\t\t\t\t\t1")
+print("1\t1\t\t\t\t1\t1")
+print("1\t1\t1\t\t1\t1\t1")
+print("1\t1\t1\t1\t1\t1\t1")
