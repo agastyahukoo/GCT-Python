@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+marks  = int(input("Enter your marks: "))
+print("\nStudent Information")
+print("Name: "+name)
+print(f"Age: {age}")
+print(f"Marks: {marks}")
