@@ -1,0 +1,5 @@
+print("H\te\tl\tl\to")
+print("H\te\tl\tl")
+print("H\te\tl")
+print("H\te")
+print("H")

@@ -1,0 +1,5 @@
+print("\t\t\t\tH")
+print("\t\t\te\tH")
+print("\t\tl\te\tH")
+print("\tl\tl\te\tH")
+print("o\tl\tl\te\tH")

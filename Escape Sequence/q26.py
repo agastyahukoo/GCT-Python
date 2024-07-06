@@ -1,0 +1,5 @@
+print("\t\t\t\to")
+print("\t\t\tl\to")
+print("\t\tl\tl\to")
+print("\te\tl\tl\to")
+print("H\te\tl\tl\to")
