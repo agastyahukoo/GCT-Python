@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+wages = float(input("Enter wages: "))
+time = float(input("Enter number of hours worked: "))
+print("Total salary:", wages*time)
+print("Annual income: ", wages*time*365.25)
